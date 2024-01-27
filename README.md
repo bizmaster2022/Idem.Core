@@ -1,1 +1,1 @@
-# IdemCore
+# Idem.Core
